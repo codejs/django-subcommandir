@@ -19,7 +19,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        'Django>=3.1,<4.2',
+        'Django>=3.1,<6.0',
     ],
     python_requires='>=3.7,<4.0',
     license='MIT',
